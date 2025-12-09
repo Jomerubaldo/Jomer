@@ -13,13 +13,19 @@
 
 <h1 align="center">Tech Stack 💻</h1>
 
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma,stackoverflow&perline=8" />
   </a>
 </p>
 
+<br>
+
 <h1 align="center">Github Stats</h1>
+
+<br>
 
  <p align="center">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jomerubaldo&show_icons=true&theme=tokyonight) -->
