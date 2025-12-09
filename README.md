@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🗨️ An aspiring web developer and undergraduate student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
+  🗨️ An aspiring developer and undergraduate student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
 </p>
 
 <p align="center">
