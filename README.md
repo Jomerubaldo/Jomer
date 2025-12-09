@@ -11,22 +11,15 @@
 
 💡 Curious about systems, problem-solving, and real-world applications, and always improving my coding skills through hands-on projects.
 
-### Socials 🔗
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jomeru.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jomerubaldo@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomer-ubaldo-746626340/)
-
-### Tech Stack 💻
+<h1 align="center">Tech Stack 💻</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma,stackoverflow&perline=8" />
   </a>
 </p>
 
-### Github Stats
+<h1 align="center">Github Stats</h1>
 
  <p align="center">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jomerubaldo&show_icons=true&theme=tokyonight) -->
