@@ -11,6 +11,8 @@
 
 </div>
 
+</br>
+
 <p align="center">
   🗨️ An aspiring Web Developer and undergrad student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
 </p>
