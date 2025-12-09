@@ -16,6 +16,8 @@
 
 <h2 align="center">Tech Stack 💻</h2>
 
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma,stackoverflow&perline=8" />
@@ -31,7 +33,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@ce1bb8f0-b388-4d39-ba0c-e382e2c9d28b">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jomerubaldo&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=transparent&color=0056c9&title_color=0056c9&point=0056c9&line=0056c9" width="95%" alt="Contribution Graph">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Jomerubaldo&theme=transparent&hide_border=true" width="95%" alt="Contribution Graph">
   </a>
 </p>
 
