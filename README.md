@@ -1,10 +1,10 @@
 <h1 align="center">Hi! 👋🏼 I'm Jomer</h1>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=007bff&lines=Software+Developer;Web+Developer;Software+Engineer" width="500" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <p align="center">
   🗨️ An aspiring Web Developer and undergrad student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
@@ -15,6 +15,8 @@
 </p>
 
 <h2 align="center">Tech Stack 💻</h2>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
