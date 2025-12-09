@@ -7,7 +7,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Software+Developer;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007bff&lines=Software+Developer;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
