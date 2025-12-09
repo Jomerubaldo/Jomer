@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi! 👋🏼 I'm Jomer</h1>
 
-<div align="center" padding-lef="30px">
+<div align="center" padding-left="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Software+Developer;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
