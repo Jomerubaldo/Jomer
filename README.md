@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  🗨️ An aspiring Web Developer and undergrad student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
+  🗨️ An aspiring web developer and undergraduate student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
 </p>
 
 <p align="center">
-  💡 Curious about systems, problem-solving, and real-world applications, and always improving my coding skills through hands-on projects.
+  💡Curious about systems, problem-solving, and real-world applications, I am always improving my coding skills through hands-on projects.
 </p>
 
 <h2 align="center">Tech Stack 💻</h2>
