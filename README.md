@@ -1,8 +1,3 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-
 <h1 align="center">Hi! 👋🏼 I'm Jomer</h1>
 
 <p align="center">
