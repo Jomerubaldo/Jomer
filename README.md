@@ -7,17 +7,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Software+Developer;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-🗨️ An undergrad student who is passionate about tech and curious on how systems work. Focusing on Data Analytcs, Data Engineering, Reverse Engineering and Threat Intelligence.
+🗨️ An aspiring Web Developer and undergrad student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
 
-📌 LF other nerds who are interested in collaborating on a research project or software project. Contact me if you'd like to discover something together :>
+💡 Curious about systems, problem-solving, and real-world applications, and always improving my coding skills through hands-on projects.
 
-### Socials 💬
+### Socials 🔗
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jomeru.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomerubaldo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jomerubaldo@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomer-ubaldo-746626340/)
 
-### Some Tools I've Used 🛠️
+### Tech Stack 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,8 +30,8 @@
 
  <p align="center">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jomerubaldo&show_icons=true&theme=tokyonight) -->
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jomerubaldo&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@m1cx's github-readme-stats"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jomerubaldo&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jomerubaldo&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@m1cx's github-readme-stats"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jomerubaldo&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Jomer github-readme-streak-stats"/>
  </p>
 <br>
 <p align="center">
