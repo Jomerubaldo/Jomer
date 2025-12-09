@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Software+Engineer" width="500" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma,stackoverflow&perline=8" width="500" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,vite,ts,mysql,github,git,figma,stackoverflow&perline=8" />
   </a>
 </p>
 
