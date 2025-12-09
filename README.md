@@ -5,11 +5,11 @@
 
 <h1 align="center">Hi! 👋🏼 I'm Jomer</h1>
 
-<p align="center">
+<div align="center">
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Software+Developer;Web+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <p align="center">
   🗨️ An aspiring Web Developer and undergrad student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, React, and modern web technologies.
