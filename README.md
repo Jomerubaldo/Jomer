@@ -14,7 +14,7 @@
   💡Curious about systems, problem-solving, and real-world applications, I am always improving my coding skills through hands-on projects.
 </p>
 
-<h2 align="center">Tech Stack 💻</h2>
+<h2 align="center">Tech Stack: 💻</h2>
 
 <br>
 
